@@ -12,7 +12,7 @@
           "architecture": "samd",
           "version": "1.8.9",
           "category": "Contributed",
-          "url": "https://github.com/mysensors/ArduinoBoards/raw/master/boards/mysensors-samd-1.8.9.tar.bz2",
+          "url": "https://github.com/hunter2409/MysensorsBoards/blob/master/boards/mysensors-samd-1.8.9.tar.bz2",
           "archiveFileName": "mysensors-samd-1.8.9.tar.bz2",
           "checksum": "SHA-256:fd99118f137d01b30916ebf07cf4bab96c10a9d54d49df499aaf6312c3b8a94b",
           "size": "1210069",

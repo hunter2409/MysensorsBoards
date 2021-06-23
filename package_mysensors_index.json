@@ -6,6 +6,7 @@
         "online": "https://forum.mysensors.org"
       },
       "websiteURL": "https://mysensors.org",
+      "platforms": [
         {
           "boards": [
             {
@@ -15,8 +16,8 @@
           "architecture": "samd",
           "name": "Mysensors SAMD Boards",
           "category": "Contributed",
-          "version": "1.8.9",
-          "archiveFileName": "mysensors-samd-1.8.9.tar.bz2",
+          "version": "1.0.6",
+          "archiveFileName": "mysensors-samd-1.0.6.tar.bz2",
           "checksum": "SHA-256:aaa17740dd1e70a61c37d2ab0c06faca051a4e31b20b3900aec7ff55b61ffc64",
           "help": {
             "online": "https://forums.mysensors.org"

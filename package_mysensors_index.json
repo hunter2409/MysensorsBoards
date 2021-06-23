@@ -56,56 +56,6 @@
               "version": "1.2.1"
             }
           ]
-        },
-        {
-          "name": "MySensors SAMD Boards",
-          "architecture": "samd",
-          "version": "1.0.6",
-          "category": "Contributed",
-          "url": "https://github.com/mysensors/ArduinoBoards/raw/master/boards/mysensors-samd-1.0.6.tar.bz2",
-          "archiveFileName": "mysensors-samd-1.0.6.tar.bz2",
-          "checksum": "SHA-256:030ac971d461a64c2349688a7698c0fb9e556429c66d8c9d09c29381f1d67d4f",
-          "size": "179258",
-          "help": {
-            "online": "https://forum.mysensors.org"
-          },
-          "boards": [
-            {
-              "name": "Sensebender GW"
-            }
-          ],
-          "toolsDependencies": [
-            {
-              "packager": "arduino",
-              "name": "arm-none-eabi-gcc",
-              "version": "7-2017q4"
-            },
-            {
-              "packager": "arduino",
-              "name": "bossac",
-              "version": "1.7.0-arduino3"
-            },
-            {
-              "packager": "arduino",
-              "name": "openocd",
-              "version": "0.10.0-arduino7"
-            },
-            {
-              "packager": "arduino",
-              "name": "CMSIS",
-              "version": "4.5.0"
-            },
-            {
-              "packager": "arduino",
-              "name": "CMSIS-Atmel",
-              "version": "1.2.0"
-            },
-            {
-              "packager": "arduino",
-              "name": "arduinoOTA",
-              "version": "1.2.1"
-            }
-          ]
         }
       ],
       "tools": [],

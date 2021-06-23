@@ -69,7 +69,7 @@ class BptContext(object):
 @click.option('--board-config', '-c', default='bpt.ini',
     type=click.Path(dir_okay=False),
     help='Specify a INI config file with list of board packages to use. Default is a bpt.ini in the current directory.')
-@click.option('--board-index', '-i', default='package_adafruit_index.json',
+@click.option('--board-index', '-i', default='package_mysensors_index.json',
     type=click.Path(exists=True, dir_okay=False),
     help='Specify a board index JSON file.  This is the master index that publishes all the packages.')
 @click.pass_context

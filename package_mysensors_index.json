@@ -1,7 +1,11 @@
 {
   "packages": [
     {
-      "websiteURL": 
+      "maintainer": "MySensors",
+      "help": {
+        "online": "https://forum.mysensors.org"
+      },
+      "websiteURL": "https://mysensors.org",
         {
           "boards": [
             {

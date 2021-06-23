@@ -1,14 +1,14 @@
 {
   "packages": [
     {
-      "maintainer": "MySensors",
+      "maintainer": "MyMySensors",
       "help": {
         "online": "https://forum.mysensors.org"
       },
       "websiteURL": "https://mysensors.org",
       "platforms": [
         {
-          "name": "MySensors SAMD Boards",
+          "name": "MyMySensors SAMD Boards",
           "architecture": "samd",
           "version": "1.8.9",
           "category": "Contributed",
@@ -60,7 +60,7 @@
       ],
       "tools": [],
       "email": "info@mysensors.org",
-      "name": "MySensors"
+      "name": "MyMySensors"
     }
   ]
 }

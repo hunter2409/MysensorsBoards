@@ -14,56 +14,6 @@
           "category": "Contributed",
           "url": "https://github.com/mysensors/ArduinoBoards/raw/master/boards/mysensors-samd-1.8.9.tar.bz2",
           "archiveFileName": "mysensors-samd-1.8.9.tar.bz2",
-          "checksum": "SHA-256:391ea77c6110081e07c471ec87290c9dde1ebcbf78708f4329095257b123fce3",
-          "size": "179337",
-          "help": {
-            "online": "https://forum.mysensors.org"
-          },
-          "boards": [
-            {
-              "name": "Sensebender GW"
-            }
-          ],
-          "toolsDependencies": [
-            {
-              "packager": "arduino",
-              "name": "arm-none-eabi-gcc",
-              "version": "7-2017q4"
-            },
-            {
-              "packager": "arduino",
-              "name": "bossac",
-              "version": "1.7.0-arduino3"
-            },
-            {
-              "packager": "arduino",
-              "name": "openocd",
-              "version": "0.10.0-arduino7"
-            },
-            {
-              "packager": "arduino",
-              "name": "CMSIS",
-              "version": "4.5.0"
-            },
-            {
-              "packager": "arduino",
-              "name": "CMSIS-Atmel",
-              "version": "1.2.0"
-            },
-            {
-              "packager": "arduino",
-              "name": "arduinoOTA",
-              "version": "1.2.1"
-            }
-          ]
-        },
-        {
-          "name": "MySensors SAMD Boards",
-          "architecture": "samd",
-          "version": "1.8.9",
-          "category": "Contributed",
-          "url": "https://github.com/mysensors/ArduinoBoards/raw/master/boards/mysensors-samd-1.8.9.tar.bz2",
-          "archiveFileName": "mysensors-samd-1.8.9.tar.bz2",
           "checksum": "SHA-256:fd99118f137d01b30916ebf07cf4bab96c10a9d54d49df499aaf6312c3b8a94b",
           "size": "1210069",
           "help": {

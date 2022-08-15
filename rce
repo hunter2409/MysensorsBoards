@@ -14,8 +14,8 @@
           "category": "Contributed",
           "url": "https://github.com/hunter2409/MysensorsBoards/raw/master/boards/mysensors-samd-1.8.9.tar.bz2",
           "archiveFileName": "mysensors-samd-1.8.9.tar.bz2",
-          "checksum": "SHA-256:bc4a62461229161e36a3b19f69c46c1aad5d5b8daa7713042457251d84fb2854",
-          "size": "562240",
+          "checksum": "SHA-256:40e0f76018510491c8786bc72ffccfda1e48cfe4078ef92f22d86986002ff7c7",
+          "size": "562313",
           "help": {
             "online": "https://forum.mysensors.org"
           },

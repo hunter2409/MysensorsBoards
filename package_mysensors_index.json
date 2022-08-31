@@ -12,10 +12,10 @@
           "architecture": "samd",
           "version": "1.8.9",
           "category": "Contributed",
-          "url": "https://github.com/hunter2409/MysensorsBoards/raw/master/boards/mysensors-samd-1.8.9.tar.bz2",
+          "url": "http://localhost:8000/boards/mysensors-samd-1.8.9.tar.bz2",
           "archiveFileName": "mysensors-samd-1.8.9.tar.bz2",
-          "checksum": "SHA-256:bc4a62461229161e36a3b19f69c46c1aad5d5b8daa7713042457251d84fb2854",
-          "size": "562240",
+          "checksum": "SHA-256:3747ddb9eaff13d7bcc98d9aff29519343b2edfcd94bd9e530cc3da7e402bd7e",
+          "size": "562745",
           "help": {
             "online": "https://forum.mysensors.org"
           },
